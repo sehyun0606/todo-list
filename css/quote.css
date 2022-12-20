@@ -1,0 +1,19 @@
+#quote{
+    border-bottom: solid;
+    border-color: yellow;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: absolute;
+    top: 700px;
+}
+#quote span:first-child{
+    display: block;
+    color: yellow;
+}
+#quote span:last-child{
+    display: block;
+    color: lightgreen;
+}

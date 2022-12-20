@@ -1,0 +1,13 @@
+.today{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#date{
+    margin-bottom: 0px;
+    font-size: 30px;
+}
+#clock{
+    font-size: 60px;
+}

@@ -1,0 +1,15 @@
+@import "background.css";
+@import "clock.css";
+@import "greetings.css";
+@import "quote.css";
+@import "todolist.css";
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.hidden{
+    display: none;
+}

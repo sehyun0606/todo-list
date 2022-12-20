@@ -1,0 +1,12 @@
+.maintext{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    flex-direction: column;
+}
+#greeting{
+
+    font-size: 70px;
+    font-weight: 500;
+}
